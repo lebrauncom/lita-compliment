@@ -2,7 +2,8 @@
 
 This is based in the excellent work of Ben Lovell and his abuse Hubot
 and abuse as a service platform: http://fierce-thicket-2438.herokuapp.com. Subtly
-forked from @andypike for the lita version.
+forked from Andy Pike for the lita version and modified to make the world a
+better place.
 
 ## Installation
 
