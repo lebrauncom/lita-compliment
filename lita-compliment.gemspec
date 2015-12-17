@@ -1,11 +1,11 @@
 Gem::Specification.new do |spec|
-  spec.name          = "lita-abuse"
+  spec.name          = "lita-compliment"
   spec.version       = "0.2.0"
-  spec.authors       = ["Andy Pike"]
-  spec.email         = ["andy@andypike.com"]
-  spec.description   = "Generates a random abusive message for someone"
-  spec.summary       = "Abuse people in your chatroom"
-  spec.homepage      = "https://github.com/andypike/lita-abuse"
+  spec.authors       = ["Joseph Kimberger"]
+  spec.email         = ["another1liner@gmail.com"]
+  spec.description   = "Generates a random compliment for someone"
+  spec.summary       = "Compliment people in your chatroom"
+  spec.homepage      = "https://github.com/kimberger/lita-compliment"
   spec.license       = "MIT"
   spec.metadata      = { "lita_plugin_type" => "handler" }
 

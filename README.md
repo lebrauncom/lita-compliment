@@ -1,16 +1,15 @@
-# lita-abuse
+# lita-compliment
 
-This plugin is extremely abusive. Only use this if users do not mind being
-offended! This is based in the excellent work of Ben Lovell and his abuse Hubot
-and abuse as a service platform: http://fierce-thicket-2438.herokuapp.com. Take
-a look at that for examples of the abuse you might receive.
+This is based in the excellent work of Ben Lovell and his abuse Hubot
+and abuse as a service platform: http://fierce-thicket-2438.herokuapp.com. Subtly
+forked from @andypike for the lita version.
 
 ## Installation
 
-Add lita-abuse to your Lita instance's Gemfile:
+Add lita-compliment to your Lita instance's Gemfile:
 
 ``` ruby
-gem "lita-abuse"
+gem "lita-compliment"
 ```
 
 ## Configuration
@@ -22,7 +21,7 @@ There is no special configuration
 To use, issue the command (where `lita` is your robots name):
 
 ```
-lita abuse Andy
+lita compliment Andy
 ```
 
 And your robot will respond accordingly with a message:
