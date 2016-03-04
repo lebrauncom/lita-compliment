@@ -10,7 +10,7 @@ better place.
 Add lita-compliment to your Lita instance's Gemfile:
 
 ``` ruby
-gem "lita-compliment"
+gem 'lita-compliment'
 ```
 
 ## Configuration
